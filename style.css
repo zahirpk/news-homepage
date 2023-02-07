@@ -20,7 +20,7 @@ body{
 
     font-family: 'Inter', sans-serif;
     font-size: 15px;
-    /* background-color: var(--Off-white); */
+    background-color: var(--Off-white);
 }
 .flex-container{
 
